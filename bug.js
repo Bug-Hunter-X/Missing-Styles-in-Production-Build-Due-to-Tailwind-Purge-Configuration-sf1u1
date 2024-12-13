@@ -1,0 +1,1 @@
+This error occurs when using Tailwind CSS with a framework like Next.js or Nuxt.js and occurs when the purge option in the Tailwind configuration file (tailwind.config.js) is not correctly configured. This leads to all or some of the styles not being included in the final CSS output, resulting in elements not being styled as expected.
